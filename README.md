@@ -36,7 +36,7 @@
 
 Блок-схема:
 
-<img width="605" height="820" alt="image" src="https://github.com/user-attachments/assets/05116a9d-ea64-48e5-9e52-36f3fc5ac66e" />
+<img width="492" height="770" alt="image" src="https://github.com/user-attachments/assets/befb6bb8-26a4-4057-9cc6-1d3dfd4a5f5b" />
 
 
 2. Реализация программы
